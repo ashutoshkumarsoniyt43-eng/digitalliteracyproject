@@ -44,7 +44,7 @@ digital-literacy/
 
 A one-page landscape infographic covering three topics: the definition of digital literacy, useful digital tools for students, and safe internet practices. Designed using Canva with a minimal layout suitable for a student audience.
 
-Folder: [task-1-presentation/](./task-1-presentation/)
+Folder: [task-1-presentation/](Task-1-presentation.pdf)
 
 ---
 
@@ -54,9 +54,9 @@ Professional accounts created on three platforms relevant to Computer Science & 
 
 | Platform | Purpose | Profile Link |
 |----------|---------|-------------|
-| GitHub | Code hosting and project portfolio | https://github.com/priyanshu-bit-sketch |
-| Kaggle | Data science and machine learning practice | https://www.kaggle.com/priyanshusn |
-| Stack Overflow | Programming Q&A and problem solving | https://stackoverflow.com/users/32555351/priyanshu-singh-naruka |
+| GitHub | Code hosting and project portfolio | https://github.com/ashutoshkumarsoniyt43-eng/ashutosh-portfolio|
+| Kaggle | Data science and machine learning practice | https://www.hackerrank.com/profile/ashutoshkumarso1 |
+| Linkedin | Professional network | hhttps://www.linkedin.com/in/ashutosh-soni-42191a38b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app |
 
 Folder: [task-2-portfolio/](./task-2-portfolio/)
 
@@ -100,6 +100,6 @@ Folder: [task-5-cybercrime/](./task-5-cybercrime/)
 ## Project Report
 
 The full written project report covering all five tasks is available at:
-[report/Project_Report.docx](./Project_Report.docx)
+[report/Project_Report.docx](Project_Report.pdf)
 
 
