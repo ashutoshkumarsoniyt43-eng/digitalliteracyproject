@@ -1,0 +1,20 @@
+“Stay Safe Online” checklist with at least 8 specific, actionable prevention tips relevant to college students in India and two tips must be specific to financial/UPI safety.
+
+Least 8 specific, actionable prevention tips relevant to college students in India:
+* Never enter your UPI PIN when someone claims to “send” you money.
+* Verify payment requests carefully before approving.
+* Use official apps only (Google Pay, PhonePe, Paytm, BHIM).
+* Enable transaction alerts via SMS/email.
+* Keep banking apps updated.
+* Report suspicious activity immediately.
+* Educate peers about UPI scams.
+* Regularly check account balances.
+
+Financial Safety Tips:
+* Never share OTPs, PINs, or passwords.
+* Use daily transaction limits to minimize risk.
+Reporting Channels:
+* National Cyber Crime Portal: cybercrime.gov.in
+* Helpline: 1930
+
+
