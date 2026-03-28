@@ -44,7 +44,7 @@ digital-literacy/
 
 A one-page landscape infographic covering three topics: the definition of digital literacy, useful digital tools for students, and safe internet practices. Designed using Canva with a minimal layout suitable for a student audience.
 
-Folder: [task-1-presentation/](Task-1-presentation.pdf)
+Folder:task-1-presentation.pdf
 
 ---
 
