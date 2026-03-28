@@ -34,7 +34,7 @@ digital-literacy/
 ├── report/
 │   └── Project_Report.docx
 └── README.md
-```
+'''
 
 
 
@@ -70,7 +70,7 @@ Completed a beginner-level challenge on HackerRank using Python. The problem inv
 **Part B — Google Forms Quiz**
 Created a five-question Digital Literacy Awareness Quiz using Google Forms. The quiz includes four multiple choice questions and one short answer question. Responses are recorded automatically in a linked Google Sheet.
 
-Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdzzKCLtPdtcMD-YlbgDAy0hBiQ4y6GiXQg7RL_UVEnrYaLGQ/viewform?usp=publish-editor
+Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSePA52DXwG684_W63XpRQK9QToJ-7MPgtb2N75cdvt8BejHZQ/viewform?usp=publish-editor
 
 Folder: [task-3-platforms/](./task-3-platforms/)
 
@@ -100,6 +100,6 @@ Folder: [task-5-cybercrime/](./task-5-cybercrime/)
 ## Project Report
 
 The full written project report covering all five tasks is available at:
-[report/Project_Report.docx](./report/Project_Report.docx)
+[report/Project_Report.docx](./Project_Report.docx)
 
 
